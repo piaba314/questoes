@@ -1,0 +1,290 @@
+#+title: Enem
+
+* Questão :enem:2022:prova_amarela:média_aritmética:
+Em uma universidade, atuam professores que estão enquadrados funcionalmente pela sua maior titulação: mestre ou doutor. Nela há, atualmente, 60 mestres e 40 doutores. Os salários mensais dos professores mestres e dos doutores são, respectivamente, R$ 8 000,00 e R$ 12 000,00. A diretoria da instituição pretende proporcionar um aumento salarial diferenciado para o ano seguinte, de tal forma que o salário médio mensal dos professores dessa instituição não ultrapasse R$ 12 240,00. A universidade já estabeleceu que o aumento salarial será de 25% para os mestres e precisa ainda definir o percentual de reajuste para os doutores. Mantido o número atual de professores com suas atuais titulações, o aumento salarial, em porcentagem, a ser concedido aos doutores deverá ser de, no máximo,
+A) 14,4.
+B) 20,7.
+C) 22,0.
+D) 30,0.
+E) 37,5.
+
+** Solução
+Antes do aumento:
+    Soma dos mestres: 480.000
+    Soma dos doutores: 480.000
+    Total: 960.000
+Despois do aumento:
+    Total: 1.224.000
+    Soma dos mestres: 600.000
+    Soma dos doutores: 624.000
+    Aumento dos doutores: 624.000 - 480.000 = 142.000
+    Aumento dos doutroes (%): 142/480 * 100%, aprox. 30%
+** Gabarito
+D
+* Questão :enem:2022:prova_amarela:aritmética:
+Um borrifador de atuação automática libera, a cada acionamento, uma mesma quantidade de inseticida. O recipiente desse produto, quando cheio, contém 360 mL de inseticida, que duram 60 dias se o borrifador permanecer ligado ininterruptamente e for acionado a cada 48 minutos. A quantidade de inseticida que é liberada a cada acionamento do borrifador, em mililitro, é
+A) 0,125.
+B) 0,200.
+C) 4,800.
+D) 6,000.
+E) 12,000.
+
+** Solução
+Quantas vezes o borrifacor é acionado?
+60 dias = 60 x 24 x 60 = 86.400 min
+86.400 / 48 = 1800 vezes
+Quantidade liberado em cada acionamento: 360 / 1800 = 0,2 mL
+** Gabarito
+B
+* Questão :enem:2022:prova_amarela:razão_e_proporção:
+Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. No planeta Z, seu ano corresponderia a quantos de seus dias?
+A) 2,5
+B) 10,0
+C) 730,0
+D) 13 322,5
+E) 53 290,0
+
+** Solução
+1 ano em Z = 0,5 ano terrestre = 0,5 x 365 dias terrestres
+= 182,5 dias terrestres
+= 182,5 / 73 dias em Z
+= 2,5 dias em Z
+** Gabarito
+A
+* Questão :enem:2022:prova_amarela:gráfico:
+Em uma competição de velocidade, diz-se que há uma ultrapassagem quando um veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo sentido. Considere uma competição automobilística entre cinco carros em uma pista com 100 m de comprimento, onde todos largam no mesmo instante e da mesma linha. O gráfico mostra a variação da distância percorrida por cada veículo, em função do tempo, durante toda a competição.
+
+[[file:./imagens/_20230930_093203screenshot.png]]
+
+Qual o número de ultrapassagens, após o início da competição, efetuadas pelo veículo que chegou em último lugar?
+A) 0
+B) 1
+C) 2
+D) 3
+E) 4
+** Solução
+Quem chegou em último lugar? O carro que ficou mais tempo na corrida, ou seja, o da linha reta. O número de ultrapassagens é o número de vezes que o gráfico cruzou com outro gráfico e ficou por cima. Portanto, o último colocado não ultrapassou ninguém após o início da corrida.
+** Gabarito
+A
+* Questão :enem:2022:prova_amarela:porcentagem:
+Em uma loja, o preço promocional de uma geladeira é de R$ 1 000,00 para pagamento somente em dinheiro. Seu preço normal, fora da promoção, é 10% maior. Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o preço normal. Uma cliente decidiu comprar essa geladeira, optando pelo pagamento com o cartão de crédito da loja. Ela calculou que o valor a ser pago seria o preço promocional acrescido de 8%. Ao ser informada pela loja do valor a pagar, segundo sua opção, percebeu uma diferença entre seu cálculo e o valor que lhe foi apresentado. O valor apresentado pela loja, comparado ao valor calculado pela cliente, foi
+A) R$ 2,00 menor.
+B) R$ 100,00 menor.
+C) R$ 200,00 menor.
+D) R$ 42,00 maior.
+E) R$ 80,00 maior.
+
+** Solução
+Valor do cliente:
+8% de 1000 = 80 reais.
+1000 + 80 = 1080 reais.
+Valor da loja:
+Preço normal: 1100 reais.
+2% de 1100 = 22 reais.
+1100 - 22 = 1078 reais.
+Diferença: 2 menor.
+** Gabarito
+A
+* Questão :enem:2022:lógica:
+Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados na figura, na qual as linhas verticais e horizontais simbolizam ruas.
+
+[[file:./imagens/_20230930_095228screenshot.png]]
+
+Por causa do sentido de tráfego nessas ruas, o caminho poligonal destacado é a possibilidade mais curta de efetuar esse deslocamento. Para descrevê-lo, deve-se especificar qual o sentido a ser tomado em cada cruzamento de ruas, em relação à direção de deslocamento do automóvel, que se movimentará continuamente. Para isso, empregam-se as letras E, F e D para indicar “vire à esquerda”, “siga em frente” e “vire à direita”, respectivamente. A sequência de letras que descreve o caminho poligonal
+destacado é
+A) DDEFDDEEFFD.
+B) DFEFDDDEFFD.
+C) DFEFDDEEFFD.
+D) EFDFEEDDFFE.
+E) EFDFEEEDFFE
+** Solução
+
+[[file:./imagens/_20230930_100546screenshot.png]]
+
+DFEFDDEEFFD
+** Gabarito
+C
+* Questão :enem:2022:geometria_espacial:volume:
+Uma loja comercializa cinco modelos de caixas-d’água (I, II, III, IV e V), todos em formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e área da base é Ab , como segue:
+• modelo II: o dobro da profundidade e a metade da área da base do modelo I;
+• modelo III: o dobro da profundidade e a metade do raio da base do modelo I;
+• modelo IV: a metade da profundidade e o dobro da área da base do modelo I;
+• modelo V: a metade da profundidade e o dobro do raio da base do modelo I
+
+Uma pessoa pretende comprar nessa loja o modelo de caixa-d’água que ofereça a maior capacidade
+volumétrica. O modelo escolhido deve ser o
+A) I.
+B) II.
+C) III.
+D) IV.
+E) V.
+
+** Solução
+O volume de um cilindro de altura h e raio da base R é V = πR²h
+Se você multiplica a altura (profundidade) por k, o volume é multiplicado por k: πR²(kh) = kπR²h = kV.
+Se você multiplica a área da base por k, o volume é multiplicado por k: (kπR²)h = kV.
+Se você multiplica o raio por k, o volume é multiplicado por k²: π(kR)²h = πk²R²h = k²V.
+Seja V o volume da caixa I. Então o volume das outras caixas é
+II: 2 x 1/2 x V = V.
+III: 2 x 1/4 x V = 1/2 V.
+IV: 1/2 x 2 x V = V.
+V: 1/2 x 4 x V = 2V.
+Logo o cilindro de maior volume é o V.
+** Gabarito
+E
+* Questão :enem:2022:razão_e_proporção:
+No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses valores, para um mesmo imóvel, no mercado imobiliário dessa cidade.
+
+[[file:./imagens/_20230930_102349screenshot.png]]
+
+A rentabilidade do aluguel de um imóvel é calculada pela razão entre o valor mensal de aluguel e o valor de mercado desse imóvel. Com base nos dados fornecidos, em que ano a rentabilidade do aluguel foi maior?
+A) 2005
+B) 2007
+C) 2009
+D) 2011
+E) 2013
+
+** Solução
+2005: 7.
+2007: 8.
+2009: 5.
+2011: 4.
+2013: 6.
+A rentabilidade foi maior em 2007.
+** Gabarito
+B
+* Questão :enem:2022:aritmética:
+Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos. O número escrito pelo estudante foi
+A) 135 000,00.
+B) 1 350 000,00.
+C) 13 500 000,00.
+D) 135 000 000,00.
+E) 1 350 000 000,00.
+** Solução
+1 350 000 000,00
+
+** Gabarito
+E
+* TODO Questão :enem:2022:geometria_analítica:
+O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na integração e no processo de escoamento da produção agrícola de duas cidades. O projeto consiste na interligação direta das cidades A e B com a Rodovia 003, pela construção das Rodovias 001 e 002. As duas rodovias serão construídas em linha reta e deverão se conectar à Rodovia 003 em um mesmo ponto, conforme esboço apresentado na figura, na qual estão também indicadas as posições das cidades A e B, considerando o eixo x posicionado sobre a Rodovia 003, e cinco localizações sugeridas para o ponto de conexão entre as três rodovias.
+
+[[file:./imagens/_20230930_103253screenshot.png]]
+
+Pretende-se que a distância percorrida entre as duas cidades, pelas Rodovias 001 e 002, passando pelo ponto de conexão, seja a menor possível. Dadas as exigências do projeto, qual das localizações sugeridas deve ser a escolhida para o ponto de conexão?
+A) I
+B) II
+C) III
+D) IV
+E) V
+** Solução
+
+[[file:./imagens/_20230930_104703screenshot.png]]
+
+Sejam A' o simétrico de A com relação ao eixo x, C o ponto de interseção da reta AA' com x e D o ponto de interseção de A'B com x. Os triângulos ACD e A'CD são congruentes (LAL), logo os segmentos AD e A'D tem a mesma medida. Portanto a poligonal ADB tem o mesmo comprimento do segmento A'B
+* Questão :enem:2022:aritmética:
+Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para isso, ela postou um anúncio em uma rede social. Cinco pessoas responderam informando preços por hora trabalhada, gasto diário com transporte e tempo necessário para conclusão do serviço, conforme valores apresentados no quadro.
+
+[[file:./imagens/_20230930_105304screenshot.png]]
+
+Se a pessoa pretende gastar o mínimo possível com essa contratação, irá contratar o operário
+A) I.
+B) II.
+C) III.
+D) IV.
+E) V.
+
+** Solução
+Gasto = Preço por hora X Tempo + Preço do transporte.
+I: 120 X 8 + 0 = 960 reais.
+II: 180 X 6 + 0 = 1080 reais.
+III: 170 X 6 + 20 = 1040 reais.
+IV: 110 X 9 + 10 = 1000 reais.
+V: 110 X 10 = 1100 reais.
+O operário com menor preço é o I.
+** Gabarito
+A
+* Questão :enem:2022:geometria_espacial:volume:
+Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda. Quantas porções da receita-base de massa ela deve preparar para atender esse cliente?
+A) 2
+B) 3
+C) 6
+D) 12
+E) 24
+
+** Solução
+O volume de uma esfera é dado por V = 4/3 πR³. Quando você dobra o diâmetro de uma esfera, você dobra o raio e, consequentemente, o volume é multiplicado por 8: 4/3 π(2xR)³ = 4/3 π x 8 x R³ = 8V.
+A cozinheira precisa de 3 vezes mais docinhos com um volume 8 vezes maior. Portanto, ela precisa de 3 x 8 = 24 vezes mais massa.
+** Gabarito
+E
+* Questão :enem:2022:geometria_espacial:volume:
+Uma empresa produz e vende um tipo de chocolate, maciço, em formato de cone circular reto com as medidas do diâmetro da base e da altura iguais a 8 cm e 10 cm, respectivamente, como apresenta a figura
+
+[[file:./imagens/_20230930_110711screenshot.png]]
+Devido a um aumento de preço dos ingredientes utilizados na produção desse chocolate, a empresa decide produzir esse mesmo tipo de chocolate com um volume 19% menor, no mesmo formato de cone circular reto com altura de 10 cm. Para isso, a empresa produzirá esses novos chocolates com medida do raio da base, em centímetro, igual a
+A) 1,52.
+B) 3,24.
+C) 3,60.
+D) 6,48.
+E) 7,20.
+
+** Solução
+O volume de um cone de altura h e raio da base R é V = 1/3 πR²h. Portanto, quando multiplicamos o raio da base por k, o volume também é multiplicado por k: 1/3 π(kR)²h = 1/3 πk²R²h = k²V.
+Seja V o volume do cone original. Precisamos de um cone com volume (100% - 19%)V = 0,81V = 0,9²V. Portanto o raio deve ser 0,9 x 4 = 3,6 cm.
+
+** Gabarito
+C
+
+* Questão :enem:2022:porcentagem:
+Em janeiro de 2013, foram declaradas 1 794 272 admissões e 1 765 372 desligamentos no Brasil, ou seja, foram criadas 28 900 vagas de emprego, segundo dados do Cadastro Geral de Empregados e Desempregados (Caged), divulgados pelo Ministério do Trabalho e Emprego (MTE). Segundo o Caged, o número de vagas criadas em janeiro de 2013 sofreu uma queda de 75%, quando comparado com o mesmo período de 2012. Disponível em: http://portal.mte.gov.br. Acesso em: 23 fev. 2013 (adaptado).
+
+De acordo com as informações dadas, o número de vagas criadas em janeiro de 2012 foi
+A) 16 514.
+B) 86 700.
+C) 115 600.
+D) 441 343.
+E) 448 568
+
+** Solução
+Se sofre uma queda de 75%, passou a ser 100% - 75% = 25% do que era antes, ou seja, um quarto do que era antes. Portanto, o npumero de vagas criadas em janeiro de 2012 foi 4 x 28 900 = 115 600.
+
+** Gabarito
+C
+* Questão :enem:2022:análise_combinatória:
+Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos os seus apartamentos à venda. Os apartamentos são identificados por números formados por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento, e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar. Quanto à incidência de sol nos quartos desses apartamentos, constatam-se as seguintes características, em função de seus números de identificação:
+• naqueles que finalizam em 1 ou 2, ambos os quartos
+recebem sol apenas na parte da manhã;
+• naqueles que finalizam em 3, 4, 5 ou 6, apenas um
+dos quartos recebe sol na parte da manhã;
+• naqueles que finalizam em 7 ou 8, ambos os quartos
+recebem sol apenas na parte da tarde.
+Uma pessoa pretende comprar 2 desses apartamentos em um mesmo andar, mas quer que, em ambos, pelo menos um dos quartos receba sol na parte da manhã. De quantas maneiras diferentes essa pessoa poderá escolher 2 desses apartamentos para compra nas condições desejadas?
+A) [[file:./imagens/_20230930_113029screenshot.png]]
+B) [[file:./imagens/_20230930_113058screenshot.png]]
+C) [[file:./imagens/_20230930_113120screenshot.png]]
+D) [[file:./imagens/_20230930_113204screenshot.png]]
+E) [[file:./imagens/_20230930_113224screenshot.png]]
+** Solução
+Temos 9 opções para o andar. Ademais os dois apartamentos devem terminar em 1, 2, 3, 4, 5 ou 6, ou seja, fixado o andar temos C6,2 maneiras de fazer a escolha. Portanto a resposta é 9xC6,2.
+** Gabarito
+B
+* Questão :enem:2022:gráfico:função_quadrática:
+Uma máquina em operação tem sua temperatura T monitorada por meio de um registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V varia com a temperatura T da máquina, de acordo com a expressão V = T² - 4. Após a máquina funcionar durante o intervalo de tempo de 10 horas, o seu operador analisa o registro gráfico, apresentado na figura, para avaliar a necessidade de eventuais ajustes, sabendo que a máquina apresenta falhas de funcionamento quando a velocidade do pistão se anula.
+
+[[file:./imagens/_20230930_115251screenshot.png]]
+Quantas vezes a velocidade do pistão se anulou durante as 10 horas de funcionamento?
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5
+** Solução
+A velocidade se anula quando a temperatura é -2°C ou 2°C (zeros da função V = T² - 4). Contando o número de vezes que o gráfico passa por um ponto de ordenada igual a -2 ou 2 chegamos na resposta: 5.
+** Gabarito
+E
+* TODO Questão :enem:2022:probabilidade:
+A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão. Considere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1/2 . Qual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?
+A) 35/64
+B) 40/64
+C) 42/64
+D) 44/64
+E) 52/64
