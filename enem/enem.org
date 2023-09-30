@@ -289,7 +289,7 @@ C) 42/64
 D) 44/64
 E) 52/64
 
-* Questão
+* Questão :enem:2022:estatística:mediana:
 O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.
 
 [[file:./imagens/_20230930_141740screenshot.png]]
