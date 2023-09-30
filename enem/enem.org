@@ -288,3 +288,27 @@ B) 40/64
 C) 42/64
 D) 44/64
 E) 52/64
+
+* Questão
+O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em milhão de reais, no decorrer dos meses de um determinado ano. A empresa obtém lucro quando a diferença entre receita e despesa é positiva e tem prejuízo quando essa diferença é negativa.
+
+[[file:./imagens/_20230930_141740screenshot.png]]
+Qual é a mediana, em milhão de reais, dos valores dos lucros apurados pela empresa nesse ano?
+A) 1,5
+B) 2,0
+C) 2,9
+D) 3,0
+E) 5,5
+
+** Solução
+Calculemos os lucros nos meses em que houve lucro:
+3, 1, 5, 3, 2, 4, 1, 4
+
+Coloquemos os valores em ordem crescente:
+1, 1, 2, 3, 3, 4, 4, 5
+
+Como temos uma quantidade par de valores, a mediana será a média dos dois valores centrais:
+(3 + 3)/2 = 3
+
+** Gabarito
+D
