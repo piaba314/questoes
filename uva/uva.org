@@ -92,7 +92,7 @@ Portanto, a resposta é 11 088 / 24 = 462 casos.
 
 ** Gabarito
 C
-* TODO Questão
+* Questão :uva:2022:aritmética:MMC:conhecimentos_gerais:
 Robson e Ronaldo estão treinando em uma pista de atletismo cujo comprimento é de 400 metros. Eles largam juntos, de um mesmo ponto da pista, mas em sentidos opostos. Os atletas se cruzam várias vezes durante o treino, mas Robson observa que percorre 120 metros a cada dois encontros consecutivos com Ronaldo. Eles terminam o treino quando se encontram novamente no ponto onde largaram. Neste instante, Ronaldo terá percorrido:
 a) 8400m.
 b) 2800m.
@@ -100,4 +100,7 @@ c) 1200m.
 d) 840m.
 
 ** Solução
-A cada dois encontros consecultivos eles andam juntos 800 metros (2 voltas). Logo, Ronaldo anda 800 - 120 = 680 m a cada dois encontros. A cada um encontro, Robson anda 120 / 2 = 60 m e Ronaldo 680 / 2 = 340 m. Toda vez que Robson passa pela partida, ele andou um distância que ao múltipla de de 400 e 60 ao mesmo tempo, ou seja, múltipla de MMC(400, 60) = 1200. Analogamente, Ronaldo anda uma distância que é múltipla de MMC(340, 400) = 6800
+Os 120 m é a distância percorrida por Robson desde o último encontro. A cada dois encontros os dois juntos percorrem 400 m (1 volta), logo Ronaldo percorre 400 - 120 = 280 m. Quando os dois se econtrarem novamente no porto de larga, Ronaldo terá percorrido uma distância que ao mesmo tempo múltiplo de 280 e 400, ou seja, múltipla de mmc(280, 400) = 2800.
+
+** Gabarito
+B
