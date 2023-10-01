@@ -1,0 +1,103 @@
+#+title: UVA
+
+* Questão :uva:2022:porcentagem:conhecimentos_gerais:
+No combate à proliferação de um vírus, 70% da população de uma cidade foi imunizada através de uma vacina aplicada ao longo do mês de novembro de 2021. Em dezembro de 2021, 80% dos ainda não vacinados serão imunizados. Supondo que em dezembro de 2021 todas as vacinas previstas serão aplicadas, que percentual da população desta cidade ainda ficará à espera da imunização?
+a) 30%.
+b) 24%.
+c) 20%.
+d) 6%.
+
+** Solução
+Se 70% for vacinada, então 30% vão ficar sem a imunização. Se 80% dos 30% anterior vão ser vacinadas, então 20% dos 30% anterior vão ficar sem a imunização, ou seja, 20/100 x 30/100 = 600/10000 = 6/100 = 6%.
+
+** Gabarito
+D
+* Questão :uva:2022:aritmética:conhecimentos_gerais:
+Lâmpadas fluorescentes têm vida útil estimada em 12 mil horas. Já as lâmpadas de LED têm vida útil estimada em 50 mil horas. Dona Rosa comprou uma lâmpada de LED e a colocou na sua sala de estar, mantendo-a ligada todos os dias por quatro horas. Já na cozinha, ela prefere usar lâmpada fluorescente, que fica ligada também todos os dias por duas horas. Supondo que as lâmpadas têm, de fato, a vida útil anunciada, quantas lâmpadas fluorescentes serão usadas, no mínimo, até que a lâmpada de LED da sala de estar seja trocada pela primeira vez?
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+
+** Solução
+Número de dias até a lâmpada de LED ser trocada: 50 0000 / 4 = 17 500 dias.
+Número de dias até a lâmpada de fluorescente ser trocada: 12 000 / 2 = 6 000.
+A resposta é 17 500 / 6 000 = 3 lâmpadas.
+
+** Gabarito
+B
+* Questão :uva:2022:aritmética:conhecimentos_gerais:
+Praxedes foi a uma concessionaria comprar seu carro novo. O vendedor ofereceu o seguinte plano: 72 parcelas de R$ 900,00 (com a primeira parcela sendo paga a partir de janeiro de 2022) e, a cada mês de julho, uma parcela extra - além dos R$ 900,00 previstos - de R$ 2.000,00 enquanto durar o financiamento. Praxedes fez uma contra-proposta: somou todo o valor que seria pago nesta modalidade de financiamento e dividiu em 80 parcelas iguais, iniciando em julho de 2021. Qual o valor da parcela na proposta feita por Praxedes?
+a) R$ 810,00.
+b) R$ 900,00.
+c) R$ 960,00.
+d) R$ 1.066,67.
+
+** Solução
+Quantidade de meses de julho até o fim do financiamento: 72 / 12 = 6.
+Quanto ele iria pagar na primeira modalidade: 72 x 900 + 6 x 2000 = 64 800 + 12 000 = 76 800 reais.
+Valor da parcela na segunda modalidade: 76 800 / 80 = 960 reais.
+
+** Gabarito
+C
+* Questão :uva:2022:aritmética:conhecimentos_gerais:
+Seu Rosalvo visita a rua dos Nins a cada 50 dias. Ele poda as árvores plantadas em frente as casas e os moradores retribuem com dinheiro ou mantimentos. A sua primeira visita a esta rua em 2021 foi no dia 15 de janeiro. Qual será o total de visitas feitas por seu Rosalvo a esta rua ao final de 2021.
+a) 6.
+b) 7.
+c) 8.
+d) 9.
+
+** Solução
+Como 2021 não é bissexto, tem 365 dias. Restam ainda 365 - 15 = 350 dias, ou seja, 350 / 50 = 7 visitas. Portanto Rosalvo fará 1 + 7 = 8 visitas. (diferente do gabarito oficial)
+
+** Gabarito
+C
+* Questão :uva:2022:porcentagem:conhecimentos_gerais:
+No Brasil, o combustível vendido como gasolina é, na verdade, uma mistura de gasolina e etanol. Para saber o percentual de etanol presente no combustível, realiza-se o chamado teste de proveta que consiste em colocar em um recipiente (proveta) de 1OOml dois componentes: 50ml do combustível e 50ml de uma mistura de água com sal. Após misturar estes dois líquidos na proveta e passados 15 minutos, o etanol presente no combustível se une à água com sal (líquido transparente) e a gasolina ficará isolada (líquido mais escuro). Se ao final de um teste de proveta observar-se que a gasolina ocupa 44 ml, qual o percentual de etanol presente no combustível?
+a) 6%.
+b) 12%.
+c) 28%.
+d) 56%.
+
+** Solução
+O volume de etanol + água + sal: 100 - 44 = 56 ml.
+O volume de etanol: 56 - 50 = 6 ml.
+A porcentagem de etanol no combustível será 6/50 = 12/100 = 12%.
+
+** Gabarito
+B
+* Questão :uva:2022:média_aritmética:conhecimentos_gerais:
+No último dia 30 de maio, um portal de  notícias na internet  publicou uma matéria sobre as mortes por Covid-19. O texto traz o seguinte trecho: "O Brasil registrou 950 mortes por Covid-19 nas últimas 24 horas, totalizando neste domingo (30) 462.092 óbitos desde o início da pandemia. Com isso, a média de mortes nos últimos 7 dias chegou a 1.844". Assinale a alternativa correta:
+a) Somando-se as mortes por Covid-19 registradas entre os dias 24 e 30 de  maio, tem-se um total de mais de 12.900 óbitos.
+b) Em cada um dos dias entre 24 e 30 de maio houve mais do que 1844 mortes por Covid-19 registradas.
+c) Em cada um dos dias entre 24 e 30 de maio houve menos do que 1844 mortes por Covid-19 registradas.
+d) Entre os dias 24 e 30 de maio houve um em que a quantidade de mortes por Covid-19 foi de 2738.
+
+** Solução
+A soma do número de mortes na última semana será 7 x 1844 = 12908.
+
+** Gabarito
+A
+* Questão :uva:2022:média_aritmética:conhecimentos_gerais:
+Segundo dados do Instituto Nacional de Pesquisas Espaciais (INPE), entre agosto de 2019 e julho de 2020 foram desmatados 11.088 km² da Floresta Amazônica. Esta área é obtida pelo somatório das áreas de todos os casos de desmatamento registrados na região. Se, em média, cada caso de desmatamento tem 24 hectares de área, então a quantidade de registros nesse período foi de:
+a) 46.200 casos.
+b) 4.620 casos.
+c) 462 casos.
+d) 4 casos.
+
+** Solução
+Média = Soma / Número de casos.
+Daí, Número de casos = Soma / Média.
+Portanto, a resposta é 11 088 / 24 = 462 casos.
+
+** Gabarito
+C
+* TODO Questão
+Robson e Ronaldo estão treinando em uma pista de atletismo cujo comprimento é de 400 metros. Eles largam juntos, de um mesmo ponto da pista, mas em sentidos opostos. Os atletas se cruzam várias vezes durante o treino, mas Robson observa que percorre 120 metros a cada dois encontros consecutivos com Ronaldo. Eles terminam o treino quando se encontram novamente no ponto onde largaram. Neste instante, Ronaldo terá percorrido:
+a) 8400m.
+b) 2800m.
+c) 1200m.
+d) 840m.
+
+** Solução
+A cada dois encontros consecultivos eles andam juntos 800 metros (2 voltas). Logo, Ronaldo anda 800 - 120 = 680 m a cada dois encontros. A cada um encontro, Robson anda 120 / 2 = 60 m e Ronaldo 680 / 2 = 340 m. Toda vez que Robson passa pela partida, ele andou um distância que ao múltipla de de 400 e 60 ao mesmo tempo, ou seja, múltipla de MMC(400, 60) = 1200. Analogamente, Ronaldo anda uma distância que é múltipla de MMC(340, 400) = 6800
