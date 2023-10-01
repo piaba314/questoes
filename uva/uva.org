@@ -104,3 +104,72 @@ Os 120 m é a distância percorrida por Robson desde o último encontro. A cada 
 
 ** Gabarito
 B
+* Questão :uva:2023:razão_e_proporção:regra_de_três:conhecimentos_gerais:
+Para preparar um cuscuz para quatro pessoas, João utiliza 3 xícaras de flocão e 1 xícara de aveia (além de água e sal). o cuscuz recebe tantos elogios que ele resolveu fazer para vender. Ele pretende fazer a receita para
+vender 30 unidades por dia, de segunda a sábado. Sabendo que um pacote de 500g de flocão equivale a sete xícaras, quantos pacotes de flocão João deve comprar semanalmente?
+a) 19.
+b) 20.
+e) 22.
+d) 23.
+
+** Solução
+Número de unidades: 30 x 6 = 180.
+Podemos usar regra de três para descobrir o número de xícaras:
+4 ------- 3
+180 ----- x
+
+4x = 540
+x = 540 / 4 = 135.
+
+Podemos usar outra regra de três para descobrir o número de pacotes:
+1 ------ 7
+x ------ 135
+
+7x = 135
+x = 135 / 7 aprox 200
+
+** Gabarito
+B
+* Questão :uva:2023:porcentagem:conhecimentos_gerais:
+Uma campanha visa arrecadar fundos para a construção de uma escola na zona rural. O orçamento total foi estimado em 2,3 milhões de Reais. Segundo a equipe responsável, a obra pode ser iniciada quando a campanha tiver arrecadado pelo menos 35% deste valor. Assinale a alternativa que apresenta o valor mínimo (em Reais) que deve ser arrecadado para que se inicie as obras:
+a) R$ 80.500,00 .
+b) R$ 149 .500,00.
+c) R$ 805.000,00.
+d) R$ 1.495.000,00.
+
+** Solução
+35% de 2 300 000 = 35 / 100 x 2 300 000 = 805 000
+
+** Gabarito
+C
+* Questão :uva:2023:porcentagem:conhecimentos_gerais:
+Ramirez tem uma empresa (devidamente registrada) que presta serviços domiciliares. Por ser empreendedor, Ramirez tem direito a um desconto de 15% na compra de um automóvel novo. Na concessionária Ramirez foi informado de que os clientes que compram no dia do seu próprio aniversário recebem um desconto adicional de 3% mas, infelizmente não era o caso de Ramirez. Para um modelo que custa R\$ 75.000,00, quanto Ramirez deixou de economizar por não poder esperar até o dia do seu aniversário?
+a) R\$13.500,00.
+b) R\$ 11.250,00.
+c) R\$ 2.250,00.
+d) R\$ 1.912,50.
+
+** Solução
+Quanto Ramirez pagou no automóvel:
+15% de 75 000 = 15 / 100 x 75 000 = 11 250
+75 000 - 11 250 = 63 750
+Quanto ele deixou de economizar:
+3% de 63 750 = 3 / 100 x 63 750 = 1912,5.
+
+** Gabarito
+D
+* Questão :uva:2023:juros:juros_simples:conhecimentos_gerais:
+Jorgito foi demitido recentemente da empresa na qual trabalha há anos. Parte do dinheiro que recebeu como indenização foi aplicado a juros simples de 12% a.a, durante 6 meses. Ao final deste tempo, ele fez nova aplicação, agora com o valor atualizado, a juros simples de 6% a.a. por 18 meses. O total atualizado depois das duas aplicações é de R$ 9.243,20. Quanto Jorgito aplicou inicialmente?
+a) R$ 8.720,00.
+b) R$ 8.480 ,00 ,
+e) R$ 8.037,57.
+d) R$ 8.000,00.
+
+** Solução
+Seja x o valor aplicado por Jorgito inicialmente.
+Valor final após a primeira aplicação: x + x . 0,12 . 0,5 = x + 0,06x = 1,06x
+Valor final após a segunda aplicação: 1,06x + 1,06x . 0,06 . 1,5 = 1,06x + 0,0954x = 1,1554x = 9243
+x = 9243 / 1,1554 aprox 8000 reais
+
+** Gabarito
+D
