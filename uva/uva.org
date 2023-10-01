@@ -173,3 +173,69 @@ x = 9243 / 1,1554 aprox 8000 reais
 
 ** Gabarito
 D
+* Questão :uva:2023:gráficos:conhecimentos_gerais:
+O gráfico abaixo representa o número de inscrições a cada ano em cursos de graduação de universidades públlcas braslleiras que adotam o Sistema de Seleção Unificada (SiSU).Assinale a alternativa correta:
+
+[[file:./imagens/_20231001_123040screenshot.png]]
+
+a) No ano de 2015 registrou-se o maior aumento de inscrições em relação ao ano anterior.
+b) De 2011 a 2015 observa-se um aumento de mais de 170% no número de inscrições.
+e) De 2015 a 2021 observa-se uma queda de quase 60% no número de inscrições.
+d) No ano de 2021 registrou-se o maior decréscimo de inscrições em relação ao ano anterior.
+
+** Solução
+a) Falso. De 2013 para 2014 temos um aumento maior. Não precisa nem fazer conta, a reta é mais ingreme.
+b) Falso. O aumento foi de 7734626 - 2869515 = 4865111 menor do que o própio valor (aumento de 100%).
+c) Verdadeiro. A queda foi de de 7734626 - 3111450 = 4311726 mais da metade.
+d) Falso. 2017 para 2018 apresentou um decréscimo maior.
+
+** Gabarito
+C
+
+* Questão :uva:2023:aritmética:conhecimentos_gerais:
+Antigamente, os vestibulares de ingresso em vanas universidades brasileiras tinham questões do tipo somatório. isto é, a questão trazia uma lista de sentenças enumeradas da seguinte forma:
+1. Sentença A
+2. Sentença B
+04. [@4] Sentença C
+08. [@8] Sentença D
+16. [@16] Sentença E
+
+O candidato deveria colocar no campo de resposta, o somatório dos valores correspondentes às sentenças verdadeiras. A questão era avaliada como correta apenas quando o candidato obtivesse o somatório exato. Assinale a alternativa correta:
+a) Esse sistema dava ao candidato a possibiHdade de chegar ao mesmo somatório escolhendo conjuntos de sentenças diferentes.
+b) Esse sistema dava ao candidato a certeza de que o somatório de cada questão seria um número inteiro entre 0 e 31.
+c) Esse sistema dava ao candidato a possibilídade de chegar a um somatório negativo.
+d) Esse sistema dava ao candidato a certeza de que o somatório seria uma potência de 2.
+
+** Solução
+a) Falso. Todo número de 1 a 31 pode ser escrito de maneira única como a soma dos valores.
+b) Verdadeiro. Soma zero, se nenhuma sentença for verdadeira. Soma 31, se todas as sentenças forem verdadeiras.
+c) Falso. Estamos somando somente números positivos.
+d) Falso. 1 + 2 = 3 não é uma potência de 2.
+
+** Gabarito
+B
+* Questão :uva:2023:razão_e_proporção:regra_de_três:
+Um fabricante de condicionadores de ar indica o uso de seus aparelhos de acordo com a área do piso do cômodo. Os aparelhos vêm de fábrica com potências a partir de 9.000 BTUs, variando de 3.000 em 3.000. Para um cômodo de 15m² de área, o fabricante recomenda usar um aparelho com potência de 9.000 BTUs. Sendo a potência diretamente proporcional a área de resfriamento, qual a potência mínima indicada para resfriar um cômodo de dimensões 8m x 12m?
+a) 57.000 BTUs.
+e) 58.000 BTUs.
+b) 57.600 BTUs.
+d) 60.000 BTUs.
+** Solução
+A área do cômodo é 8 x 12 = 96 m².
+Podemos fazer uma regra de três para descobrir a potência do condicionador de ar:
+15 ---- 9000
+96 ---- x
+
+15x = 864 000
+x = 864 000 / 15 = 57 600.
+
+As potências disponíveis são da forma 9000 + 3000k, com k = 0, 1, ...
+Vamos descobrir o valor de k apropriado:
+9000 + 3000k = 57 600
+3000k = 48 600
+k = 48 600 / 3000 = 16,2 aprox 17
+
+A resposta é 17 x 3000 + 9000 = 60.000
+
+** Gabarito
+D
