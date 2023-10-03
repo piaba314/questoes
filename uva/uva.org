@@ -1,4 +1,5 @@
 #+title: UVA
+#+select_tags: porcentagem razão_e_proporção aritmética
 
 * Questão :uva:2022:porcentagem:conhecimentos_gerais:
 No combate à proliferação de um vírus, 70% da população de uma cidade foi imunizada através de uma vacina aplicada ao longo do mês de novembro de 2021. Em dezembro de 2021, 80% dos ainda não vacinados serão imunizados. Supondo que em dezembro de 2021 todas as vacinas previstas serão aplicadas, que percentual da população desta cidade ainda ficará à espera da imunização?
@@ -214,7 +215,7 @@ d) Falso. 1 + 2 = 3 não é uma potência de 2.
 
 ** Gabarito
 B
-* Questão :uva:2023:razão_e_proporção:regra_de_três:
+* Questão :uva:2023:razão_e_proporção:regra_de_três:conhecimentos_específicos:
 Um fabricante de condicionadores de ar indica o uso de seus aparelhos de acordo com a área do piso do cômodo. Os aparelhos vêm de fábrica com potências a partir de 9.000 BTUs, variando de 3.000 em 3.000. Para um cômodo de 15m² de área, o fabricante recomenda usar um aparelho com potência de 9.000 BTUs. Sendo a potência diretamente proporcional a área de resfriamento, qual a potência mínima indicada para resfriar um cômodo de dimensões 8m x 12m?
 a) 57.000 BTUs.
 e) 58.000 BTUs.
@@ -239,3 +240,117 @@ A resposta é 17 x 3000 + 9000 = 60.000
 
 ** Gabarito
 D
+* Questão :uva:aritmética:2020:conhecimentos_gerais:
+Na próxima terça-feira, o time de futebol da cidade de Bolândia completará mil dias sem derrota. A última vez em que esta equipe perdeu foi em uma:
+a) segunda-feira.
+b) terça-feira .
+c) quarta-feira.
+d) quinta-feira.
+
+** Solução
+Os sete dias anteriores são:
+S D S S Q Q T
+
+Ou seja, os dias da semana se repetem a cada 7 dias. Temos 1000 = 142 x 7 + 6, ou seja, a sequência anterior se repete 7 vezes e para no sexto item. Portanto a última vez que a equipe perdeu foi uma quarta-feira.
+
+** Gabarito
+C
+* Questão :uva:2020:geometria_plana:teorema_de_pitágoras:conhecimentos_gerais:
+Jonas e Joaquim partirão de Sobral para dois locais distintos. Para simular a aventura, eles recorrem a um mapa, que é uma aproximação planificada do globo terrestre.Jonas irá para um lugar que, de acordo com o mapa e partindo de Sobral, fica a Nordeste, numa direçao que faz 35° com a direção norte. Para onde Joaquim irá a Sudeste de Sobral, a direção é de 55° com a direção sul. Ao final das viagens, Jonas estaria a 30km de Sobral, enquanto Joaquim estaria a 40km de Sobral, considerando os trajetos em linha reta. Nessa simulação, qual a distância (em linha reta) entre os destinos de Jonas e Joaquim?
+a) 50km.
+b) 45km.
+c) 40km.
+d) 30km.
+
+** Solução
+#+attr_html: :width 400px
+[[file:./imagens/_20231003_160324screenshot.png]]
+
+O ângulo entre as trajetórias de Jonas e Joaquim formam um ângulo de 180° - 35° - 55° = 90°. Logo o triângulo cujos vértices são Jonas, Joaquim e Sobral é retângulo em Sobral. Seja x a distância entre Jonas e Joaquim, hipotenusa do triângulo retângulo. Pelo Teorema de Pitágoras, temos
+x² = 30² + 40²
+x² = 900 + 1600
+x² = 2500
+x = √2500
+x = 50 km
+
+** Gabarito
+A
+* Questão :uva:2020:álgebra:função_afim:conhecimentos_gerais:
+Duas empresas alugam cama elástica, o famoso pula-pula, para eventos infantis. O valor cobrado leva em conta o custo de montagem e o tempo de uso do equipamento. Para disponibilizar um pula-pula por t horas de evento, a empresa A cobra 60+5t reais e a empresa B cobra 50+7t reais. Os equipamentos têm exatamente as mesmas especificações e medidas. Para cinco horas de evento, é correto afirmar:
+a) A empresa A tem menor preço.
+b) A empresa B tem menor preço.
+c) A escolha entre estas empresas não faz diferença em termos de custo.
+d) Não é possível saber qual a melhor escolha até que se saiba quantas crianças estarão presentes no evento.
+
+** Solução
+Substituindo 5 no lugar do t nas duas expressões, temos que os valores cobrados por A e B são 60 + 5 x 5 = 85 e 50 + 7 x 5 = 85. Portanto a escolha não faz diferença em termos de custo.
+
+** Gabarito
+C
+* Questão :uva:2020:aritmética:conhecimentos_gerais:
+No ano de 2080, a presidente do Brasil aprovará nova forma de cobrança de imposto de renda das pessoas. Aqueles que receberem menos de 10 mil reais mensais estarao isentos do imposto. A partir dai, os salários sao divididos em faixas: na Faixa 1 estão os salários a partir de 10 mil reais, mas inferiores a 20 mil reais. Na Faixa 2, os salários a partir de 20 mil reais e inferiores a 30 mil reais. Com raciocínio análogo se constituem as demais faixas. Para os salários da Faixa 1, serão cobrados impostos mensais de 2%. Na Faixa 2 o imposto pago será de 4%, na Faixa 3 de 6% e assim por diante. Porém, o teto de cobrança de imposto será de 32%. Nesse formato, um professor que recebe mensalmente 105 mil reais pagará quanto de imposto de renda mensalmente?
+a) 10,5 mil reais.
+b) 11, 55 mil reais.
+c) 21 mil reais.
+d) 23, 1 mil reais.
+
+** Solução
+A porcentagem é sempre duas vezes a faixa. Logo a maior faixa possível é 32 / 2 = 16.
+O salário inicial é sempre 10 000 reais vezes o índice da faixa. Logo a faixa salarial do professor é 105 000 / 10 000, aproximadament 10, e a porcentagem 2% x 10 = 20%. Portanto o professor pagará de imposto, 20/100 x 105 000 = 21 000 reais.
+
+** Gabarito
+C
+* Questão :uva:2020:lógica:conhecimentos_gerais:
+No filme Inferno, baseado no livro de Dan Brown, o personagem Bertrand Zobrist defende uma diminuição forçada da população do planeta para que não haja um colapso. Ele usa o exemplo da bactéria que se divide em duas a cada minuto, gerando uma população que, ao final de uma hora, ocupa totalmente uma proveta (recipiente de vidro). Se esse experimento se iniciou com apenas 1 bactéria, após quantos minutos a população de bactérias ocupava a metade da proveta?
+a) 15 minutos.
+c) 45 minutos.
+b) 30 minutos.
+d) 59 minutos.
+
+** Solução
+A resposta é 59 minutos. No próximo minuto, a popução dobra ocupando a proveta inteira.
+
+** Gabarito
+D
+* Questão :uva:2020:conversão_de_unidades:aritmética:conhecimentos_gerais:
+Em 365 dias, 5 horas, 48 minutos e 46 segundos o planeta Terra dá uma volta completa em torno do Sol. Assim, para ser mais preciso, um ano tem 365 dias e:
+a) 5,4846 horas.
+b) 5,812777 ... horas.
+c) 5,846 horas.
+d) 6 horas.
+
+** Solução
+48 min = 48 / 60 horas = 0,8 horas.
+46 s = 46 / 3600 horas = 0,012777 ...
+Portanto, um ano tem 365 dias e 5,812777 ... horas
+
+** Gabarito
+B
+* Questão :uva:2020:aritmética:conhecimentos_gerais:
+Uma pequena fábrica produz um único modelo de guarda-chuva. Cada funcionário é responsável pela fabricação diária de 24 peças. Joelma faltou na terça-feira e na quarta-feira. Cintia faltou na quarta-feira. Sempre que um funcionário falta, a produção que deveria ser deste funcionário naquele dia é dividida igualmente entre os funcionários presentes. Suelem e Matias, os outros dois funcionários da fábrica, produziram juntos nos dois dias em que Joelma faltou:
+a) 48 guarda-chuvas.
+b) 80 guarda-chuvas.
+c) 160 guarda-chuvas.
+d) 192 guarda-chuvas.
+
+** Solução
+Na terça-feira, haviam 3 funcionários (Cintia, Suelem e Matias) e faltou 1. Eles tiveram que produzir a mais 24 / 3 = 8 guarda-chuvas cada. Logo Suelem e Matias produziram juntos nesse dia 2 x 32 = 64 guarda-chuvas. Nas quarta-feira, haviam 2 funcionários (Suelem e Matias) e faltaram 2. Eles tiveram que produzir a mais 48 / 2 = 24. Logo Suelem e Matias produziram juntos na quarta-feira 2 x 48 = 96. Portanto os dois produziram juntos nos dois dias 64 + 96 = 160 guarda-chuvas.
+
+** Gabarito
+C
+* Questão :uva:2020:gráficos:conhecimentos_gerais:
+Em um site que compara preços de produtos em diversas lojas virtuais, Elisalene procurava informações sobre uma TV. Ela se deparou com urn gráfico que mostrava de agosto de 2019 a janeiro de 2020, mês a mês, o menor valor para a TV (independentemente da loja que praticava tal preço).
+
+[[file:./imagens/_20231003_170300screenshot.png]]
+
+Pelo que se vê acima, qual o menor valor praticado (aproximadamente) de agosto de 2019 a janeiro de 2020?
+a) R$ 1.600,00.
+b) R$ 1.700,00.
+c) R$ 1.820,00.
+d) R$ 1.960,00.
+
+** Solução
+A menor abscissa do gráfico é aproximadamento 1700.
+
+** Gabarito
+B
